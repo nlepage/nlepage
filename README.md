@@ -8,4 +8,4 @@ The evil Locks are (almost) all dead, and the Scheduler rules this peaceful worl
 
 Concurrency in Go explained to my 3 years old daughter!
 
-[![Youtube - DevFest Nantes 2018 - Au Pays des Gophers](https://raw.githubusercontent.com/nlepage/nlepage/master/yt-preview-au-pays-des-gophers.png)](https://youtu.be/kJR74dG6_1U)
+[![Youtube - DevFest Nantes 2018 - Au Pays des Gophers](https://github.com/nlepage/nlepage/blob/master/yt-preview-au-pays-des-gophers.png?raw=true)](https://youtu.be/kJR74dG6_1U)
