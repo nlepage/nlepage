@@ -1,18 +1,11 @@
 # Nicolas Lepage
 
-## 🎤 Talks
+Hi there :wave:
 
-### 🇫🇷 Land of the Gophers (for age 3 and up)
+Check out some of my articles on [dev.to](https://dev.to/nlepage) and [Medium](https://medium.com/@nlepage).
 
-<table><tr>
-<td>
-  <a href="https://youtu.be/kJR74dG6_1U"><img src="https://github.com/nlepage/nlepage/blob/master/yt-preview-au-pays-des-gophers.png?raw=true" alt="Youtube - DevFest Nantes 2018 - Au Pays des Gophers"></a>
-</td>
-<td>
-  In the Land of the Gophers, goroutines live freely and swap kisses and candies thanks to channels.
-  <br><br>
-  The evil Locks are (almost) all dead, and the Scheduler rules this peaceful world which doesn't know the name of CPUs.
-  <br><br>
-  Concurrency in Go explained to my 3 years old daughter!
-</td>
-</tr></table>
+Some of my talks (in french :fr:) are available on [this Youtube playlist](https://www.youtube.com/watch?v=kJR74dG6_1U&list=PLLBp1FWMQoeM-c6sPyGvRcAcaVIxc-R0k).
+
+Also I'm a co-organizer of the [Golang Nantes Meetup](https://www.meetup.com/fr-FR/Golang-Nantes/).
+
+Cheers :beers:
