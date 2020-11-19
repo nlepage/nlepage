@@ -1,6 +1,4 @@
-# Nicolas Lepage
-
-Hi there :wave:
+# Hi there :wave:
 
 Check out some of my articles on [dev.to](https://dev.to/nlepage) and [Medium](https://medium.com/@nlepage).
 
